@@ -1,4 +1,4 @@
-# AL-Task-2
+# AI-Task-2
 
 # Install arduino robot arm on ROS by using ubuntu 18.04
 
